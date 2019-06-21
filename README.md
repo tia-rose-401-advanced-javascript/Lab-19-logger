@@ -1,39 +1,30 @@
-# LAB - 
+# LAB - 19
 
 ## Project Name
+Message Queue Server and Logger
 
-### Author: Student/Group Name
+### Author: Tia Rose
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/tia-rose-401-advanced-javascript/Lab-19-logger/pull/1)
+* [travis](https://www.travis-ci.com/tia-rose-401-advanced-javascript/Lab-19-logger)
 
 ### Modules
-#### `modulename.js`
+#### `logger.js`
 ##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
 * `PORT` - 3030
-* `MONGODB_URI` - URL to the running mongo instance/db
+
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* `npm start` or node logger.js
   
 #### Tests
 * How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+
+npm run test
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML Lab 19](./assets/UML-19.JPG)
