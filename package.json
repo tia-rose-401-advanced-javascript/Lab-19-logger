@@ -15,7 +15,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "jest --verbose --coverage",
-    "lint": "eslint --fix \"**/*.js\""
+    "lint": "eslint --fix \"**/*.js\"",
+    "start": "node logger.js"
   },
   "repository": {
     "type": "git",
