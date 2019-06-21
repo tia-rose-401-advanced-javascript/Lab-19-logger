@@ -26,8 +26,5 @@ Message Queue Server and Logger
 
 npm run test
 
-* What assertions were made?
-* What assertions need to be / should be made?
-
 #### UML
 ![UML Lab 19](./assets/UML-19.JPG)
